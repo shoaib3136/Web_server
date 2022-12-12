@@ -57,6 +57,11 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
 ## OUTPUT:
+### Server side output
+![Server Side Output](./images/serveroutput.png)
+
+### Client Side Output
+![Client Side Output](./images/clientoutput.png)
 
 ## RESULT:
 The program is executed succesfully
